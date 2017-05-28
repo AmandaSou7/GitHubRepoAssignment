@@ -1,0 +1,14 @@
+cd Desktop\DojoAssignment\Git
+mkdir GitHubRepoAssignment
+cd GitHubRepoAssignment
+git init
+copy NUL readme.md
+write readme.md
+git status
+git add .
+git commit -m "added readme.md to and for github respository GitHubRepoAssignment"
+git log
+(create repo in github account)
+git remote add origin https://github.com/AmandaSou7/GitHubRepoAssignment.git
+git push origin master
+(enter credentials for first time connection)
