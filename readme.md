@@ -1,0 +1,1 @@
+Creating a github repository for practice - Coding Dojo.
